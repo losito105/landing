@@ -8,7 +8,7 @@ const Wrapper = ({ children }: WrapperProps) => {
         div {
           width: 100%;
           max-width: var(--max-width);
-          padding: 0 var(--spacing-large);
+          padding: 0 var(--spacing-mini);
           margin-left: auto;
           margin-right: auto;
         }
